@@ -54,4 +54,4 @@ Example
 
 The program running in progress:
 
-![Grumpy cat does NOT approve of the result](https://raw.githubusercontent.com/leonschrijvers/Imager/master/Examples/GrumpyCat-progress3.png)
+![Example of the program running in progress](https://raw.githubusercontent.com/leonschrijvers/Imager/master/Examples/GrumpyCat-progress3.png "Grumpy cat does NOT approve of the result")
